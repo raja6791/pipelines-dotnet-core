@@ -1,4 +1,5 @@
-[![Build Status] (https://raja6791.visualstudio.com/DevOpsPipeLine/_apis/build/status/raja6791.pipelines-dotnet-core)](https://raja6791.visualstudio.com/DevOpsPipeLine/_build/latest?definitionId=10)
+[![Build Status]
+(https://raja6791.visualstudio.com/DevOpsPipeLine/_apis/build/status/raja6791.pipelines-dotnet-core)](https://raja6791.visualstudio.com/DevOpsPipeLine/_build/latest?definitionId=10)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
