@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/raja6791/AzureDevOpsCICDPOC/_apis/build/status/AzureDevOpsCICDPOC-CI?branchName=master)](https://dev.azure.com/raja6791/AzureDevOpsCICDPOC/_build/latest?definitionId=14&branchName=master)
+
 [![Build Status]
 (https://raja6791.visualstudio.com/DevOpsPipeLine/_apis/build/status/raja6791.pipelines-dotnet-core)](https://raja6791.visualstudio.com/DevOpsPipeLine/_build/latest?definitionId=10)
 
